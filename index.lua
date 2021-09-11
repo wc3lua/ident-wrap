@@ -1,0 +1,12 @@
+require 'modules.ident-wrap.API.ability'
+require 'modules.ident-wrap.API.automationTest'
+require 'modules.ident-wrap.API.blight'
+require 'modules.ident-wrap.API.booleanExpr'
+require 'modules.ident-wrap.API.camera'
+require 'modules.ident-wrap.API.campaign'
+require 'modules.ident-wrap.API.cheat'
+require 'modules.ident-wrap.API.AI'
+require 'modules.ident-wrap.API.destructable'
+require 'modules.ident-wrap.API.dialog'
+require 'modules.ident-wrap.API.doodad'
+
